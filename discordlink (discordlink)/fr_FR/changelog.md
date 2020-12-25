@@ -1,6 +1,6 @@
 ## 3.6 (BETA!!!!)
 
-- Mise a jours de la dependance discord. (Test pour fix les problème de reaction.)
+- Mise à jours de la dépendances discord. (Test pour fix les problèmes de réactions.)
 - Mise à jour de l'affichage des commandes pour être compatible avec le core V4
 - Mise à jour des widgets scénarios
 
